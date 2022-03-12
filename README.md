@@ -16,9 +16,7 @@ Here is a preview of the graph is will produce:
 
 This is very simple, it just plots a line of best fit for some data.
 
-The line can then be used to get estimated values, for example when trying to find the correlation between 2 attributes.
-
-To estimate data you need to use the lines equation y = mx + c, the algoritm finds the gradient (m) and the y intercept (c), and you need to subtitute in values depending on which axis they are on.
+I am using a dataset which looks at the correlation between student's study time, and their GPA, although the data isn't very good, it still shows that there is a positive correlation. So the more you study, the higher your GPA.
 
 Here is a preview of the data:
 ![Linear Regression Graph](https://github.com/AryaaSk/Machine-Learning/blob/main/Linear%20Regression/Graph.png?raw=true) 
