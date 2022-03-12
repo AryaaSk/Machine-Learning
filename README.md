@@ -18,5 +18,7 @@ This is very simple, it just plots a line of best fit for some data.
 
 I am using a dataset which looks at the correlation between student's study time, and their GPA, although the data isn't very good, it still shows that there is a positive correlation. So the more you study, the higher your GPA.
 
+To estimate where a student would fall if they studied S amount of hours, you would just substitute in S for X in the y = mx + c equation.
+
 Here is a preview of the data:
 ![Linear Regression Graph](https://github.com/AryaaSk/Machine-Learning/blob/main/Linear%20Regression/Graph.png?raw=true) 
